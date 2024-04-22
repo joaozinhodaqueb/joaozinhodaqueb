@@ -5,7 +5,7 @@
   <div>
     <div align="center">
       <div>
-        <a href="https://www.instagram.com/joaovictormpontes_/" target="_blank"><img src="https://img.shields.io/badge/JoaoMesquita_%20-%20%23f63838?style=for-the-badge&logo=instagram&labelColor=black" target="_blank"></a>
+        <a href="https://www.instagram.com/joaovictormpontes/" target="_blank"><img src="https://img.shields.io/badge/JoaoMesquita_%20-%20%23f63838?style=for-the-badge&logo=instagram&labelColor=black" target="_blank"></a>
       </div>
       <a href="https://github.com/joaozinhodaqueb" target="_blank">
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozinhodaqueb&layout=compact&langs_count=6&theme=tokyonight"/>
